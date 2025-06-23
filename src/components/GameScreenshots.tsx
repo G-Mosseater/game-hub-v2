@@ -15,3 +15,4 @@ const GameScreenshots = ({ gameId }: Props) => {
 };
 
 export default GameScreenshots;
+

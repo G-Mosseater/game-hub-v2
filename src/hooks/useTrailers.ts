@@ -12,3 +12,4 @@ const useTrailers = (gameId: number) => {
 };
 
 export default useTrailers;
+

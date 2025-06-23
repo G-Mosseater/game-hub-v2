@@ -6,3 +6,4 @@ const usePlatform = (id?: number) => {
 };
 
 export default usePlatform;
+

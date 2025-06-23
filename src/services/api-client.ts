@@ -33,3 +33,4 @@ export interface FetchResponse<T> {
   results: T[];
   next: string | null;
 }
+

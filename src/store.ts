@@ -25,3 +25,4 @@ export const useGameQueryStore = create<GameQueryStore>((set) => ({
   setSortOrder: (sortOrder) =>
     set((store) => ({ gameQuery: { ...store.gameQuery, sortOrder } })),
 }));
+

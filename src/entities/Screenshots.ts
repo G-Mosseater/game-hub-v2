@@ -4,3 +4,4 @@ export interface Screenshots {
   width: number;
   height: number;
 }
+

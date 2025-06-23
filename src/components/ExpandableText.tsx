@@ -30,3 +30,4 @@ const ExpandableText = ({ children }: Props) => {
 };
 
 export default ExpandableText;
+
